@@ -59,3 +59,7 @@ public class MainActivity extends AppCompatActivity {
 //kenapa kok belum bisa ngeluarin semua data dalam array? masih 1 data yang bisa keluar
 //sering force close pas di build
 //sebelumnya ClassNotFoundException ada error itu
+
+
+// ralat
+// success
